@@ -1,0 +1,5 @@
+# robots.txt para Falcão Marido de Aluguel
+User-agent: *
+Allow: /
+
+Sitemap: https://falcaomaridodealuguel.com.br/sitemap.xml
