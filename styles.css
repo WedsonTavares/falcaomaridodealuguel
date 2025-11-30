@@ -741,4 +741,16 @@ a {
   .contato .btn-primary {
     display: inline-block;
   }
+
+  /* Logo maior em desktop */
+  .logo-img {
+    height: 180px;
+    margin: -50px 0; /* Compensar altura extra do logo */
+  }
+
+  /* Reduzir padding vertical do header em desktop */
+  .header-container {
+    padding: 0;
+    overflow: hidden; /* Evitar que o logo ultrapasse o container */
+  }
 }
