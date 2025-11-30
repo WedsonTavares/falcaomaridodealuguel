@@ -494,10 +494,7 @@ a {
   }
 
   .btn-whatsapp {
-    position: absolute;
-    bottom: 3rem;
-    left: 50%;
-    transform: translateX(-50%);
+    display: none;
   }
 
   /* Hero Mobile */
@@ -612,7 +609,7 @@ a {
   }
 
   .logo-img {
-    height: 50px;
+    height: 80px;
   }
 
   .hero {
